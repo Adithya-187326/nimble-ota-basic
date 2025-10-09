@@ -67,7 +67,7 @@ When the server is connected to the client, a series of steps listed below has t
 - All firmware data, up to the size of the firmware is written to the flash. Additionally, any left over data is also flushed to the same before ending the OTA.
 - The boot partition is then updated, and the system is restarted to boot up with the new firmware.
 
-The outputs of the process with a sample code is presented [here](demo.mp4)
+The outputs of the process with a sample code is presented [here](https://youtu.be/0q1Ny0Ta5I8)
 
 ## Troubleshooting
 
